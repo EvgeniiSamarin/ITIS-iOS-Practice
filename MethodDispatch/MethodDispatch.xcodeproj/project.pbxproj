@@ -16,6 +16,7 @@
 		7DB781CE26F8E47600902284 /* MethodDispatchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB781CD26F8E47600902284 /* MethodDispatchTests.swift */; };
 		7DB781D926F8E47600902284 /* MethodDispatchUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB781D826F8E47600902284 /* MethodDispatchUITests.swift */; };
 		7DB7820126F8F05A00902284 /* NSObjectClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB7820026F8F05A00902284 /* NSObjectClass.swift */; };
+		7DB7820426F8F1A400902284 /* TestNSObjectClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB7820326F8F1A400902284 /* TestNSObjectClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		7DB781D826F8E47600902284 /* MethodDispatchUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MethodDispatchUITests.swift; sourceTree = "<group>"; };
 		7DB781DA26F8E47600902284 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7DB7820026F8F05A00902284 /* NSObjectClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSObjectClass.swift; sourceTree = "<group>"; };
+		7DB7820326F8F1A400902284 /* TestNSObjectClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestNSObjectClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +145,7 @@
 			isa = PBXGroup;
 			children = (
 				7DB7820026F8F05A00902284 /* NSObjectClass.swift */,
+				7DB7820326F8F1A400902284 /* TestNSObjectClass.swift */,
 			);
 			path = NSObject;
 			sourceTree = "<group>";
@@ -278,6 +281,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7DB7820126F8F05A00902284 /* NSObjectClass.swift in Sources */,
+				7DB7820426F8F1A400902284 /* TestNSObjectClass.swift in Sources */,
 				7DB781B726F8E47400902284 /* AppDelegate.swift in Sources */,
 				7DB781B926F8E47400902284 /* SceneDelegate.swift in Sources */,
 				7DB781BB26F8E47400902284 /* ContentView.swift in Sources */,
