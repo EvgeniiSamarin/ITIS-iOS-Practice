@@ -18,6 +18,7 @@
 		7DB781F826F8ECF200902284 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB781F726F8ECF200902284 /* Person.swift */; };
 		7DB781FA26F8ED0000902284 /* SecondClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB781F926F8ED0000902284 /* SecondClass.swift */; };
 		7DB781FC26F8ED6C00902284 /* StudentProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB781FB26F8ED6C00902284 /* StudentProtocol.swift */; };
+		7DB781FE26F8EEAD00902284 /* TableDispatchTestClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB781FD26F8EEAD00902284 /* TableDispatchTestClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		7DB781F726F8ECF200902284 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		7DB781F926F8ED0000902284 /* SecondClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondClass.swift; sourceTree = "<group>"; };
 		7DB781FB26F8ED6C00902284 /* StudentProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentProtocol.swift; sourceTree = "<group>"; };
+		7DB781FD26F8EEAD00902284 /* TableDispatchTestClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableDispatchTestClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 				7DB781F726F8ECF200902284 /* Person.swift */,
 				7DB781F926F8ED0000902284 /* SecondClass.swift */,
 				7DB781FB26F8ED6C00902284 /* StudentProtocol.swift */,
+				7DB781FD26F8EEAD00902284 /* TableDispatchTestClass.swift */,
 			);
 			path = TableDispatch;
 			sourceTree = "<group>";
@@ -288,6 +291,7 @@
 				7DB781B926F8E47400902284 /* SceneDelegate.swift in Sources */,
 				7DB781FC26F8ED6C00902284 /* StudentProtocol.swift in Sources */,
 				7DB781BB26F8E47400902284 /* ContentView.swift in Sources */,
+				7DB781FE26F8EEAD00902284 /* TableDispatchTestClass.swift in Sources */,
 				7DB781FA26F8ED0000902284 /* SecondClass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
