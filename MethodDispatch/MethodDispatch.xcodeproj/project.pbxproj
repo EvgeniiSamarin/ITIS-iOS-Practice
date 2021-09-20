@@ -18,6 +18,7 @@
 		7DB781ED26F8E6F800902284 /* SomeClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB781EC26F8E6F800902284 /* SomeClass.swift */; };
 		7DB781EF26F8E70A00902284 /* AnotherClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB781EE26F8E70A00902284 /* AnotherClass.swift */; };
 		7DB781F126F8E7CA00902284 /* StaticStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB781F026F8E7CA00902284 /* StaticStruct.swift */; };
+		7DB781F526F8EB4500902284 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB781F426F8EB4500902284 /* Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		7DB781EC26F8E6F800902284 /* SomeClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SomeClass.swift; sourceTree = "<group>"; };
 		7DB781EE26F8E70A00902284 /* AnotherClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnotherClass.swift; sourceTree = "<group>"; };
 		7DB781F026F8E7CA00902284 /* StaticStruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StaticStruct.swift; sourceTree = "<group>"; };
+		7DB781F426F8EB4500902284 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 				7DB781EC26F8E6F800902284 /* SomeClass.swift */,
 				7DB781EE26F8E70A00902284 /* AnotherClass.swift */,
 				7DB781F026F8E7CA00902284 /* StaticStruct.swift */,
+				7DB781F426F8EB4500902284 /* Test.swift */,
 			);
 			path = StaticDispatch;
 			sourceTree = "<group>";
@@ -286,6 +289,7 @@
 				7DB781EF26F8E70A00902284 /* AnotherClass.swift in Sources */,
 				7DB781F126F8E7CA00902284 /* StaticStruct.swift in Sources */,
 				7DB781B726F8E47400902284 /* AppDelegate.swift in Sources */,
+				7DB781F526F8EB4500902284 /* Test.swift in Sources */,
 				7DB781ED26F8E6F800902284 /* SomeClass.swift in Sources */,
 				7DB781B926F8E47400902284 /* SceneDelegate.swift in Sources */,
 				7DB781BB26F8E47400902284 /* ContentView.swift in Sources */,
